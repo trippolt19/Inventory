@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 16e49186231e982408a8d3fe0cae99ad, type: 3}
   m_Name: Shield
   m_EditorClassIdentifier: 
-  prefab: {fileID: 0}
+  prefab: {fileID: 9077128381111402362, guid: 20fec82627115d64b8d61eb1627764e8, type: 3}
   type: 1
   description: Just a blocker
   atkBonus: 0

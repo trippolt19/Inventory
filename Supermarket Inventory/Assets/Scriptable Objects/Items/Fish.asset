@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 90bf2c2aefe880a4a81006ae4b057501, type: 3}
   m_Name: Fish
   m_EditorClassIdentifier: 
-  prefab: {fileID: 0}
+  prefab: {fileID: 3563732036271641750, guid: 46cf8769e150af142b21f24174d5777c, type: 3}
   type: 0
   description: Irgenda Krapfn zum essn!
   restoreHealthValue: 16

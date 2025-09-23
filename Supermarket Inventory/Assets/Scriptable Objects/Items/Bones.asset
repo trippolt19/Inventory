@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8a1d08fabfe4845b2263fb8da152de, type: 3}
   m_Name: Bones
   m_EditorClassIdentifier: 
-  prefab: {fileID: 0}
+  prefab: {fileID: 3767653383529923786, guid: cafec1126fccdc34e86017aa1151d044, type: 3}
   type: 2
   description: "Mir f\xE4llt nix ein!!!"

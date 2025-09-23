@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 90bf2c2aefe880a4a81006ae4b057501, type: 3}
   m_Name: Banane
   m_EditorClassIdentifier: 
-  prefab: {fileID: 0}
+  prefab: {fileID: 3240043071183364614, guid: c4934baf78f85bb4baf8c4cde268faae, type: 3}
   type: 0
   description: The Banana is very long and cool.
   restoreHealthValue: 0
